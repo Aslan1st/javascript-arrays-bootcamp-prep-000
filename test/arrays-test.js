@@ -128,3 +128,9 @@ describe('arrays', () => {
     })
   })
 })
+var chocolateBars = [
+  'snickers',
+  'hundred grand',
+  'kitkat',
+  'skittles'
+]
